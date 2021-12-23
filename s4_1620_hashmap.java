@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class b1620_hashmap {
+public class s4_1620_hashmap {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());
