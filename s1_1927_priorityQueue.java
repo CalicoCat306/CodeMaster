@@ -1,7 +1,7 @@
-import java.util.*;
+import java.util.PriorityQueue;
 import java.io.*;
 
-public class s1_1927 {
+public class s1_1927_priorityQueue {
     public static void main(String[] args) throws IOException {
         PriorityQueue<Integer> priq = new PriorityQueue<>();
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
